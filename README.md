@@ -1,3 +1,3 @@
 # reactjs-food-order
 
-A dummy project for testing out git/GitHub stuff.
+A project for testing out git/GitHub stuff.
